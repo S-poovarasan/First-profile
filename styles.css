@@ -1,0 +1,15 @@
+#first1{
+    display: flex;
+    justify-content:space-between;
+}
+.image{
+    display: flex;
+    justify-content:right;
+}
+img{
+    width: 150px;
+    height:150px;
+}
+body{
+    padding: 5px;
+}
